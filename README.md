@@ -1,0 +1,2 @@
+# goredirect
+Redirect Golang Packages
